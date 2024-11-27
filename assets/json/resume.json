@@ -12,12 +12,12 @@
       "postalCode": "50014",
       "city": "San Domenico di Fiesole",
       "countryCode": "Italy",
-      "region": "Toscany"
+      "region": "Tuscany"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
+        "username": "magsedu",
         "url": "https://twitter.com/AlbertEinstein"
       }
     ]
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "European University Institute",
+      "location": "San Domenico di Fiesole, Italy",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Political Sicence",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "01/09/2021",
+      "endDate": "",
+      "score": "",
+     # "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
@@ -151,15 +151,26 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Professional",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Catalan",
+      "fluency": "Native",
       "icon": ""
-    }
+    },
+{
+      "language": "Spanish",
+      "fluency": "Native",
+      "icon": ""
+    },
+ {
+      "language": "Italian",
+      "fluency": "C1",
+      "icon": ""
+    },
+
   ],
   "interests": [
     {
