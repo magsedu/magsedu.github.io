@@ -35,17 +35,17 @@
     "education": [
         {
             "institution": "European University Institute",
-            "location": "San Domenico di Fiesole, Italy",
+            "location": "Florence",
             "url": "https://www.eui.eu/en/academic-units/political-and-social-sciences",
-            "area": "Political Sicence",
+            "area": "Political Science",
             "studyType": "PhD",
-            "startDate": "01/09/2021",
+            "startDate": "2021",
             "endDate": ""
         },
         {
             "institution": "Pompeu Fabra University",
             "location": "Barcelona",
-            "area": "Political Sicence",
+            "area": "Political Science",
             "studyType": "MA",
             "startDate": "2019",
             "endDate": "2020"
@@ -53,7 +53,7 @@
         {
             "institution": "University of Barcelona",
             "location": "Barcelona",
-            "area": "Political Sicence",
+            "area": "Political Science",
             "studyType": "MA",
             "startDate": "2018",
             "endDate": "2019"
@@ -61,7 +61,7 @@
         {
             "institution": "Pompeu Fabra University",
             "location": "Barcelona",
-            "area": "Political Sicence",
+            "area": "Political Science",
             "studyType": "BA",
             "startDate": "2014",
             "endDate": "2018"
