@@ -4,15 +4,15 @@
     "label": "",
     "image": "",
     "email": "magali.serraduran@eui.eu",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Via dei Roccettini 9",
+      "postalCode": "50014",
+      "city": "San Domenico di Fiesole",
+      "countryCode": "Italy",
+      "region": "Toscany"
     },
     "profiles": [
       {
@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "European University Institute",
+      "position": "PhD Researcher",
+      "url": "https://www.eui.eu/people?id=magali-serra-duran",
+      "startDate": "1/9/2021",
+      "endDate": "",
+      "summary": "My research focuses on comparative politics and historical political economy. I aim to understand how gender norms are shaped and how they can be challenged.",
       "highlights": ["Relativity"]
     }
   ],
