@@ -29,4 +29,3 @@ latest_posts:
 
 I am a PhD candidate at the [European University Institute](https://www.eui.eu/en/home). I hold a BA in Political Science and Public Administration and an MSc in Political Science from [Universitat Pompeu Fabra](https://www.upf.edu) and [Universitat de Barcelona](https://web.ub.edu/en/home).
 
-<!--Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.--!>
