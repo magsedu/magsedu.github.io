@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://magsedu.github.io/sitemap.xml
+Sitemap: https://magaliserraduran.github.io/sitemap.xml
